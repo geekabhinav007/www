@@ -1,8 +1,7 @@
 title = "Kumar Abhinav"
 
-baseURL = "http://code.gndec.ac.in/~kumar%20abhinav/www"
-
-publishDir = "../public_html/www"
+baseURL = "https://geekabhinav007.github.io/www"
+publishDir = "docs"
 
 languageCode = "en-us"
 theme = "ananke"
