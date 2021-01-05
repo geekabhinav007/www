@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Page </title>
+    <title>ECE on My Page </title>
     <link>https://geekabhinav007.github.io/www/post/</link>
-    <description>Recent content on My Page </description>
+    <description>Recent content in ECE on My Page </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://geekabhinav007.github.io/www/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 06:00:16 -0500</lastBuildDate><atom:link href="https://geekabhinav007.github.io/www/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AIML</title>
       <link>https://geekabhinav007.github.io/www/post/aiml/</link>
