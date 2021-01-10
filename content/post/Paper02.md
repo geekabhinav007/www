@@ -1,81 +1,63 @@
 ---
-date: 2021-01-07T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+date: 2021-01-09T10:58:08-04:00
+description: "My Articles"
+featured_image: "https://images.ctfassets.net/hrltx12pl8hq/6f2M9koJF7uhwGGao7WCX5/8683a9c8388dada729c7caeefc87872b/compressed_shutterstock_1274296330.jpg?fit=fill&w=800&h=300"
 tags: ["scene"]
-title: "Chapter II: TCC Seminar Hall"
+title: "Chapter II:Importance Of Education "
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+Education is a powerful weapon that aids an individual to face the adversities of life and overcome societal stigmas such as poverty, fear, status to achieve success. Education is the hope of development and success for most third-world countries and the world’s dominion countries. Mandatory education builds the scope of better growth and development.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Role of Education in India
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+Education has the potential to revolutionize the course of a nation – with skilled and educated youths. A nation comprises a higher rate to achieve its targeted economic growth and sit among the league known as the developed nation. A well-educated nation discards any obstacles that hinder its growth and strives hard to attain sustainable development.
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+Education in India refers to the process of learning, training, and teaching human capital in schools and universities. The Indian government reflects specific economic policies that emphasize the importance of education in India.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+Factors contributing to the Importance of Education in India
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+Eradicate the fickle of Unemployment
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+The substantial effect of illiteracy is ‘unemployment.’ Unemployment hinders the progress of a nation-leading to low standards of living and an increased crime rate.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+India is stuck in a critical situation where almost 58 percent of unemployed graduates and 77 percent of the families are void of regular income. About 67 percent receive an annual income of less than 1.2 Lakh per anum.
+
+
+ 
+In this circumstance, India cannot risk leaving any child illiterate, as it would push him towards a life of Unemployment and misery.
+
+Removes Poverty
+
+As India is one of the fastest-growing economies in 2020, poverty is on the decline in the country and is one of the greatest evils of illiteracy. Till the year 2012, India earned the appellation of homing the most significant number of poor in the world.
+
+In India, nearly 70.6 Million people still live in abject poverty, and the way to discard the vicious cycle of poverty is through Education. Higher rates of literacy result in high access to employability, which in turn provides better living conditions.
+
+Eradicates Casteism
+
+The caste system is the world’s longest surviving social hierarchy in India. Caste-based discrimination cripples the path of sustainable development in India. A society that discriminates based on caste, creed, race, religion, or color remains entangled in the web of hatred, poverty, and inadequate resources.
+
+The contributing factor to the prevalent orthodox customs is illiteracy. Education changes an individual’s perspective on caste discrimination. It makes an individual caste neutral with a progressive mindset that wills to contribute productively to the nation.
+
+Economic Stability and Growth
+
+Education is an integral tool that helps a nation to achieve economic growth and stability. India homes twenty million youths that graduate annually from various disciplines and set out to aid in the economic development of the nation.
+
+Educating youth and adults reveals the hidden potential, which could lead India to the path of development.
+
+Improvisation in Health and Hygiene
+
+Countries with a high rate of illiteracy are bound with poor hygienic conditions and health. India has walked past the decades where it lost millions of lives to diseases that resulted from the absence of healthcare facilities and poor sanitation.
+
+To improvise the health and hygiene sector of the country, schemes such as ‘Swachh Bharat Mission,’ Rashtriya Bal Swasthya Karyakram’ etc., draws people to come safely under the fold. A literate person gains knowledge about health and hygiene issues and the schemes of the government and benefits from them.
+
+
+
+
+
+
+
+
+
+
+
+
