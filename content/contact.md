@@ -9,6 +9,8 @@ menu: main
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Always happy to hear from you.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://mail.google.com/mail/u/0/#inbox?compose=new"  >}}
+
+ you can also mail me at abhinav26january@gmail.com .
