@@ -1,9 +1,9 @@
 ---
-title: "My Article"
+title: "The Importance of Technology in Our Daily Life - How Has Technology Changed Our Lives?"
 date: 2021-01-09T06:00:16-05:00
 tags: ["scene"]
 featured_image: "https://integritybusinesscollege.com/wp-content/uploads/2020/11/IT-Marketing-Photo.jpg"
-description: "The Importance of Technology in Our Daily Life - How Has Technology Changed Our Lives?"
+description: "My Article"
 ---
 
 No one can escape the absolute necessity of technology in our daily lives. Each of us is so heavily dependent on technology that we cannot do anything easily without it. 
