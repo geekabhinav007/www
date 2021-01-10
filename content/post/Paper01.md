@@ -1,81 +1,56 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+date: 2021-01-10T10:58:08-04:00
+description: "My Articles"
+featured_image: "https://www.publichealthnotes.com/wp-content/uploads/2018/11/pollution.jpg"
 tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+title: "Chapter I: Pollution"
 ---
 
-Three hundred and forty-eight years, six months, and nineteen days ago
-to-day, the Parisians awoke to the sound of all the bells in the triple
-circuit of the city, the university, and the town ringing a full peal.
+Pollution is the process in which undesirable toxic contaminants contaminate our environment like air, water, soil, etc.
+ It is creating sudden changes in the ecosystem, which is directly on indirectly leaving adverse effects on the lives of human beings, animals, and plants.
+ It creates an imbalance in the natural system. Many things which are making our lives easy are harmful to the environment.
+ For example, vehicles leave gases that pollute the air. Industries and household garbage pollute both water and air.
 
-The sixth of January, 1482, is not, however, a day of which history has
-preserved the memory. There was nothing notable in the event which thus
-set the bells and the bourgeois of Paris in a ferment from early morning.
-It was neither an assault by the Picards nor the Burgundians, nor a hunt
-led along in procession, nor a revolt of scholars in the town of Laas, nor
-an entry of “our much dread lord, monsieur the king,” nor even a pretty
-hanging of male and female thieves by the courts of Paris. Neither was it
-the arrival, so frequent in the fifteenth century, of some plumed and
-bedizened embassy. It was barely two days since the last cavalcade of that
-nature, that of the Flemish ambassadors charged with concluding the
-marriage between the dauphin and Marguerite of Flanders, had made its
-entry into Paris, to the great annoyance of M. le Cardinal de Bourbon,
-who, for the sake of pleasing the king, had been obliged to assume an
-amiable mien towards this whole rustic rabble of Flemish burgomasters, and
-to regale them at his Hôtel de Bourbon, with a very “pretty morality,
-allegorical satire, and farce,” while a driving rain drenched the
-magnificent tapestries at his door.
+Every living being on Earth depends on air and water. When these two things get polluted, all the lives on Earth come at a risk.
+ It is seen that urban areas get more polluted than in rural areas. Though rural areas also get polluted
+ by harmful pesticides used in farming lands. Because of pollution, many new diseases
+ appear daily, which are extremely dangerous for the health of living beings.
+ It has now become a serious problem globally. Global Warming is now the cause of headaches for all human beings worldwide.
+ It is the pollution that is indirectly affecting the change in the weather.
+ This global issue needs immediate action. Otherwise, it will be challenging to lead a healthy lifestyle.
 
-What put the “whole population of Paris in commotion,” as Jehan de Troyes
-expresses it, on the sixth of January, was the double solemnity, united
-from time immemorial, of the Epiphany and the Feast of Fools.
+Types of Pollution
 
-On that day, there was to be a bonfire on the Place de Grève, a maypole at
-the Chapelle de Braque, and a mystery at the Palais de Justice. It had
-been cried, to the sound of the trumpet, the preceding evening at all the
-cross roads, by the provost’s men, clad in handsome, short, sleeveless
-coats of violet camelot, with large white crosses upon their breasts.
+There are various kinds of pollution around us. Here, we will discuss more on the types of pollution.
 
-So the crowd of citizens, male and female, having closed their houses and
-shops, thronged from every direction, at early morn, towards some one of
-the three spots designated.
+Air Pollution: It is sometimes visible like we can see polluted air left by the vehicles on the road because of its different colour. 
+In most cases, it is not visible. Polluted air mainly affects the eyes and lungs of human beings as well as animals. It can even kill
+ a living creature within a few minutes. We know about many incidents where harmful
+ gas leakage has killed people. Even natural disasters can make the air toxic.
+ Like volcanic eruptions produce harmful gases that affect human health and other
+ natural resources as well. Vehicles and factories produce harmful gases that,
+ in reaction to sunlight, creates thick fog. Air pollution also contributes to Acid Rain. It can destroy water life, forests, etc.
 
-Each had made his choice; one, the bonfire; another, the maypole; another,
-the mystery play. It must be stated, in honor of the good sense of the
-loungers of Paris, that the greater part of this crowd directed their
-steps towards the bonfire, which was quite in season, or towards the
-mystery play, which was to be presented in the grand hall of the Palais de
-Justice (the courts of law), which was well roofed and walled; and that
-the curious left the poor, scantily flowered maypole to shiver all alone
-beneath the sky of January, in the cemetery of the Chapel of Braque.
+Water Pollution: Same like water, one kind of water pollution is visible like muddy water, water with garbage, etc.
+ At the same time, some visibly clean water can contain chemicals that are dangerous to our health. Drinking polluted
+ water can cause serious health issues. A lot of people die worldwide by consuming contaminated water.
+ It can also indirectly affect humans and animals. Like if we eat a fish from a polluted river or sea, we
+ also absorb the potential pollutants. Natural gas and oil can also contribute to the pollution of water.
+ Liquid wastes from factories also pollute the water. Solid wastes disturb the drainage system.
+ Sewages, agricultural waste, acid rain are essential causes of water pollution.
 
-The populace thronged the avenues of the law courts in particular, because
-they knew that the Flemish ambassadors, who had arrived two days
-previously, intended to be present at the representation of the mystery,
-and at the election of the Pope of the Fools, which was also to take place
-in the grand hall.
+Soil Pollution: Solid wastes from factories and households pollute the land. Harmful chemicals
+ mix in the soil through the pesticides used in agriculture. Pollutants from landfills mix in
+ the ground and pollute it. When we eat plants that have grown in the polluted land,
+ we indirectly consume contaminants harmful to our health.
 
-It was no easy matter on that day, to force one’s way into that grand
-hall, although it was then reputed to be the largest covered enclosure in
-the world (it is true that Sauval had not yet measured the grand hall of
-the Château of Montargis). The palace place, encumbered with people,
-offered to the curious gazers at the windows the aspect of a sea; into
-which five or six streets, like so many mouths of rivers, discharged every
-moment fresh floods of heads. The waves of this crowd, augmented
-incessantly, dashed against the angles of the houses which projected here
-and there, like so many promontories, into the irregular basin of the
-place. In the centre of the lofty Gothic* façade of the palace, the grand
-staircase, incessantly ascended and descended by a double current, which,
-after parting on the intermediate landing-place, flowed in broad waves
-along its lateral slopes,—the grand staircase, I say, trickled
-incessantly into the place, like a cascade into a lake. The cries, the
-laughter, the trampling of those thousands of feet, produced a great noise
-and a great clamor. From time to time, this noise and clamor redoubled;
-the current which drove the crowd towards the grand staircase flowed
-backwards, became troubled, formed whirlpools. This was produced by the
-buffet of an archer, or the horse of one of the provost’s sergeants, which
-kicked to restore order; an admirable tradition which the provostship has
-bequeathed to the constablery, the constablery to the _maréchaussée_,
-the _maréchaussée_ to our _gendarmeri_ of Paris.
+Noise Pollution: When the sound becomes intolerant and reason of disturbance, it is noise pollution.
+ The sounds of vehicles, mike, loud music, or machinery cause noise pollution. It causes serious health
+ issues like migraine, depression, hypertension, aggressive behavior, etc. to humans. It
+ also directly affects the health of animals. It sometimes becomes the reason for their death.
+
+Conclusion
+
+Many people and animals are losing their lives or experiencing severe health issues due to the increased level
+ of pollution. This critical issue needs immediate attention. Most of the causes of pollution are human activities.
+ So, we should control such activities that contribute to pollution. It can at least minimize the severity of its effects.
