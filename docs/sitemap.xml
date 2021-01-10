@@ -38,6 +38,13 @@
   </url>
   
   <url>
+    <loc>https://geekabhinav007.github.io/www/post/paper01/</loc>
+    <lastmod>2017-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://geekabhinav007.github.io/www/post/paper02/</loc>
     <lastmod>2017-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -51,12 +58,6 @@
   
   <url>
     <loc>https://geekabhinav007.github.io/www/post/atml/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://geekabhinav007.github.io/www/post/paper01/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
