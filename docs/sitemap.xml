@@ -73,12 +73,6 @@
   </url>
   
   <url>
-    <loc>https://geekabhinav007.github.io/www/post/atml/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://geekabhinav007.github.io/www/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
