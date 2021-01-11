@@ -4,20 +4,27 @@
   
   <url>
     <loc>https://geekabhinav007.github.io/www/post/</loc>
-    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <lastmod>2021-01-11T05:56:08-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://geekabhinav007.github.io/www/post/paper02/</loc>
-    <lastmod>2021-01-09T10:58:08-04:00</lastmod>
+    <loc>https://geekabhinav007.github.io/www/post/paper03/</loc>
+    <lastmod>2021-01-11T05:56:08-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://geekabhinav007.github.io/www/</loc>
+    <lastmod>2021-01-11T05:56:08-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekabhinav007.github.io/www/post/paper02/</loc>
     <lastmod>2021-01-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
