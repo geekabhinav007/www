@@ -73,12 +73,6 @@
   </url>
   
   <url>
-    <loc>https://geekabhinav007.github.io/www/about/maths/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://geekabhinav007.github.io/www/post/atml/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -92,6 +86,12 @@
   
   <url>
     <loc>https://geekabhinav007.github.io/www/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://geekabhinav007.github.io/www/about/maths/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
