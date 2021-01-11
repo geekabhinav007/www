@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Technology in Our Daily Life - How Has Technology Changed Our Lives?"
+title: "Chapter III: The Importance of Technology in Our Daily Life - How Has Technology Changed Our Lives?"
 date: 2021-01-09T06:00:16-05:00
 tags: ["scene"]
 featured_image: "https://integritybusinesscollege.com/wp-content/uploads/2020/11/IT-Marketing-Photo.jpg"
